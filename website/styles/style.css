@@ -1,9 +1,11 @@
 h1 {
     color: black;
     font-size: 30px;
-    padding: 300px;
+    padding: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
     border-bottom: 5px solid green;
-    margin: 1px;
+    margin: 10px;
 }
 h2 {
     color: black;
