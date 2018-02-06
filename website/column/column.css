@@ -7,8 +7,10 @@
 #container#left {
     width: 300px;
     float: left;
+    background-color:pink;
 }
 #container#right {
     width:300px;
     float:right;
+    background-color:green
 }
